@@ -1,0 +1,5 @@
+Policy,Group,Mean_Wait_Minutes
+FCFS,Long service,13.508343934079567
+FCFS,Short service,14.439257008561148
+SPT,Long service,12.265724248872715
+SPT,Short service,4.74364641376375
